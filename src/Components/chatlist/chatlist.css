@@ -1,0 +1,29 @@
+.chatlist1{
+    
+    width: 20%;
+    height: 80vh;
+    
+     
+  padding: 1rem;
+  /* border-right: 1px solid #cccccc; */
+  box-shadow: 0.3px 0px 0px rgb(164,164,164);
+  
+  
+  
+
+    
+}
+.chattemplate{
+  height: 55vh;
+  overflow-y: scroll;
+
+}
+
+
+
+
+.searchbar{
+    padding-top: 1em;
+    width: 100%;
+    margin: auto;
+}

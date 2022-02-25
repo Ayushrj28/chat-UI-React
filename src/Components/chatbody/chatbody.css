@@ -1,0 +1,13 @@
+.chatbody{
+    
+    
+    background-color: #f4f3f8;
+    display: flex;
+    width: 95%;
+    min-height: 80vh;
+    border-radius: 10px;
+    display: flex;
+    margin: auto;
+    font-size: 12px;
+
+}

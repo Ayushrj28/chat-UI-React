@@ -1,0 +1,42 @@
+.chattempletes_me {
+  max-width: 40%;
+
+  display: flex;
+  align-items: flex-end;
+  padding-top: 1em;
+}
+.chattempletes_me .mainchat {
+  background-color: white;
+}
+.chattempletes_other {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-end;
+  padding-left: 5em;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.mainchat {
+  padding: 1em;
+  border-radius: 20px;
+}
+.chattempletes_other .mainchat {
+  background-color: #3366ff;
+}
+
+.img_chat img {
+  width: 50px;
+  border-radius: 50%;
+}
+.img_chat {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.chat_info {
+  display: flex;
+}
+#span2 {
+  padding-left: 1.5em;
+  padding-right: 1em;
+}

@@ -1,0 +1,7 @@
+.nav {
+  padding-top: 2em;
+  /* padding-left: 10px; */
+}
+.nav img {
+  cursor: pointer;
+}
